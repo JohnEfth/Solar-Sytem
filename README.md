@@ -14,6 +14,7 @@ Run with the command -> ./app
 On the running window you can use the following commands:
 
 Press:
+  
   a     to start/stop animation
 
   q/esc to exit
