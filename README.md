@@ -1,6 +1,8 @@
 # Solar-Sytem
 3D design and animation of the Solar System 
 
+I use the OpenGL library.
+
 How to compile and run:
 
 In the terminal:
@@ -13,8 +15,14 @@ On the running window you can use the following commands:
 
 Press:
   a     to start/stop animation
+
   q/esc to exit
+
   left  to move left
+
   right to move right
+
   up    to move up
+
   down  to move down
+
